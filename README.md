@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build a CLI Application with External Data
 
 ## Overview
@@ -108,3 +109,7 @@ Project reviews are focused on preparing you for technical interviews. Treat pro
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/cli-data-gem-assessment'>CLI Data Gem Project</a> on Learn.co and start learning to code for free.</p>
+=======
+# amnh-events-cli-app
+CLI app that scrapes the events calendar of the American Museum of Natural History and allows the user to see the list of events and basic information about them. 
+>>>>>>> 078faa1d213b8c1eed20988d777a20275dee39ff
